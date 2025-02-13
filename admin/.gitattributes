@@ -1,0 +1,11 @@
+*.py linguist-detectable=true
+*.py linguist-language=py
+
+*.html linguist-detectable=true
+*.html linguist-language=html
+
+*.css linguist-detectable=true
+*.css linguist-language=css
+
+*.js linguist-detectable=true
+*.js linguist-language=js
